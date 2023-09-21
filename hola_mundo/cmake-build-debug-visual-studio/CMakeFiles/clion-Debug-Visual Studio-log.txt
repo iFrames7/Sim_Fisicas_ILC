@@ -1,0 +1,44 @@
+C:\Users\ivanl\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/ivanl/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -DCMAKE_TOOLCHAIN_FILE=C:\Users\ivanl\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S "C:\Users\ivanl\OneDrive\Escritorio\Ivan Escuela\5to semestre\Simuladores de fisicas en tiempo real\sim_fisicas_ILC\hola_mundo" -B "C:\Users\ivanl\OneDrive\Escritorio\Ivan Escuela\5to semestre\Simuladores de fisicas en tiempo real\sim_fisicas_ILC\hola_mundo\cmake-build-debug-visual-studio"
+-- The C compiler identification is MSVC 19.37.32824.0
+-- The CXX compiler identification is MSVC 19.37.32824.0
+-- Detecting C compiler ABI info
+CMake Warning in C:/Users/ivanl/OneDrive/Escritorio/Ivan Escuela/5to semestre/Simuladores de fisicas en tiempo real/sim_fisicas_ILC/hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-wqk80o/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/ivanl/OneDrive/Escritorio/Ivan Escuela/5to semestre/Simuladores de fisicas en tiempo real/sim_fisicas_ILC/hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-wqk80o/CMakeFiles/cmTC_1fb3a.dir/./
+
+  has 228 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCCompilerABI.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.37.32822/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+CMake Warning in C:/Users/ivanl/OneDrive/Escritorio/Ivan Escuela/5to semestre/Simuladores de fisicas en tiempo real/sim_fisicas_ILC/hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-hk1xmg/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/ivanl/OneDrive/Escritorio/Ivan Escuela/5to semestre/Simuladores de fisicas en tiempo real/sim_fisicas_ILC/hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-hk1xmg/CMakeFiles/cmTC_30699.dir/./
+
+  has 228 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCXXCompilerABI.cpp.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.37.32822/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (5.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/ivanl/OneDrive/Escritorio/Ivan Escuela/5to semestre/Simuladores de fisicas en tiempo real/sim_fisicas_ILC/hola_mundo/cmake-build-debug-visual-studio
