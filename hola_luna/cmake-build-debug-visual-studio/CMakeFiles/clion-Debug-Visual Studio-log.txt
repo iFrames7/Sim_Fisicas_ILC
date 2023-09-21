@@ -1,0 +1,10 @@
+C:\Users\ivanl\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/ivanl/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -DCMAKE_TOOLCHAIN_FILE=C:\Users\ivanl\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S "C:\Users\ivanl\OneDrive\Escritorio\Ivan Escuela\5to semestre\Simuladores de fisicas en tiempo real\sim_fisicas_ILC\hola_luna" -B "C:\Users\ivanl\OneDrive\Escritorio\Ivan Escuela\5to semestre\Simuladores de fisicas en tiempo real\sim_fisicas_ILC\hola_luna\cmake-build-debug-visual-studio"
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CMAKE_TOOLCHAIN_FILE
+
+
+-- Build files have been written to: C:/Users/ivanl/OneDrive/Escritorio/Ivan Escuela/5to semestre/Simuladores de fisicas en tiempo real/sim_fisicas_ILC/hola_luna/cmake-build-debug-visual-studio
