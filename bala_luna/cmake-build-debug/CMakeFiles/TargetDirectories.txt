@@ -1,0 +1,3 @@
+C:/Users/ivanl/OneDrive/Escritorio/Ivan Escuela/5to semestre/Simuladores de fisicas en tiempo real/sim_fisicas_ILC/bala_luna/cmake-build-debug/CMakeFiles/bala_luna.dir
+C:/Users/ivanl/OneDrive/Escritorio/Ivan Escuela/5to semestre/Simuladores de fisicas en tiempo real/sim_fisicas_ILC/bala_luna/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ivanl/OneDrive/Escritorio/Ivan Escuela/5to semestre/Simuladores de fisicas en tiempo real/sim_fisicas_ILC/bala_luna/cmake-build-debug/CMakeFiles/rebuild_cache.dir
